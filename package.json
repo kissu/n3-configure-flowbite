@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^5.0.3",
+    "nuxt": "3.0.0-rc.1"
+  },
+  "dependencies": {
+    "flowbite": "^1.4.2"
+  }
+}
